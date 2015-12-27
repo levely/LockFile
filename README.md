@@ -4,7 +4,7 @@ php file util class
 ## Usage
 ```php
 // lock
-if (LockFile::lockExNg('/tmp/hoge.lock') {
+if (LockFile::lockExNg('/tmp/hoge.lock')) {
     // success
 } else {
     // failure
