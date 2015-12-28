@@ -17,5 +17,3 @@ LockFile::unlock('/tmp/hoge.lock');
 ## Author
 Masayuki Yoshii (Levely)
 
-## License
-MIT
